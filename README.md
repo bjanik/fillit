@@ -2,7 +2,7 @@
 
 ## Use
 
-*./fillit [file]
+./fillit [file]
 
 Program takes a file as argument which describes a list of Tetrominos, which will have to be assembled to create the smallest square possible.
 
@@ -19,4 +19,6 @@ Our programm will first have to check if the input file is correctly formatted:
     
     #...
                                                                       
- 
+If the file is formatted correctly, then the program will display all the Tetrominos assembled in in smallest square.
+
+In order to differentiate the tetrominos displayed, they will be displayed with as capital letters, starting from A
