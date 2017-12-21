@@ -23,7 +23,7 @@ If the file is formatted correctly, then the program will display all the Tetrom
 
 In order to differentiate the tetrominos displayed, they will be displayed with as capital letters, starting from A.
 
-Example solution display:
+Example solution display (4 x 4 smallest sqaure) :
 
     AAAA
     
