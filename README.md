@@ -11,13 +11,10 @@ Our programm will first have to check if the input file is correctly formatted:
     
     Each Tetrominos must be represented on a 4 x 4 square for example : 
     
-    #...
-    
-    #...
-    
-    #...
-    
-    #...
+        #...    
+        #...    
+        #...    
+        #...
                                                                       
 If the file is formatted correctly, then the program will display all the Tetrominos assembled in in smallest square.
 
@@ -25,11 +22,8 @@ In order to differentiate the tetrominos displayed, they will be displayed with 
 
 Example solution display (4 x 4 smallest square) :
 
-    AAAA
-    
-    BBB.
-    
-    ..B.
-    
+    AAAA    
+    BBB.    
+    ..B.    
     ....
     
