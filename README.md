@@ -1,5 +1,8 @@
 # fillit - Can you fillit?
 
+by bjanik
+
+Grade: 100/100
 ## Use
 
 ./fillit [file]
