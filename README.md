@@ -20,6 +20,7 @@ Our programm will first have to check if the input file is correctly formatted:
         #...
                                                                       
 If the file is formatted correctly, then the program will display all the Tetrominos assembled in in smallest square.
+Rotating tetrominos is not allowed.
 
 In order to differentiate the tetrominos displayed, they will be displayed with as capital letters, starting from A.
 
